@@ -2,10 +2,10 @@
     "chain_name": "Lava Testnet",
     "registry_name": "Lava Testnet",
     "api": [
-        {"provider": "CryptoNodeID", "address": "https://lava-testnet-api.itrocket.net"}
+        {"provider": "ITROCKET", "address": "https://lava-testnet-api.itrocket.net"}
     ],
     "rpc": [
-        {"provider": "CryptoNodeID", "address": "https://lava-testnet-rpc.itrocket.net"}
+        {"provider": "ITROCKET", "address": "https://lava-testnet-rpc.itrocket.net"}
     ],
     "sdk_version": "0.47.13",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
